@@ -20,4 +20,5 @@
 
 # Brandon's personal lists
 192.168.1.99 1.99.com
-192.168.0.2 pihole.smibrandon.com
+#192.168.0.2 pihole.smibrandon.com
+192.168.1.100 pihole.smibrandon.com
