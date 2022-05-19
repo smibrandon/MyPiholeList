@@ -2,3 +2,13 @@
 127.0.0.1 snapchat.com
 127.0.0.1 cf-st.sc-cdn.net
 127.0.0.1 feelinsonice-hrd.appspot.com
+127.0.0.1 snapchat.com
+127.0.0.1 app.snapchat.com
+127.0.0.1 snapchat.appspot.com
+127.0.0.1 sc-analytics.appspot.com
+127.0.0.1 www.feelinsonice.com
+127.0.0.1 feelinsonice.l.google.com
+127.0.0.1 feelinsonice.appspot.com
+127.0.0.1 feelinsonice-hrd.appspot.com
+127.0.0.1 data.flurry.com
+127.0.0.1 appspot.l.google.co
